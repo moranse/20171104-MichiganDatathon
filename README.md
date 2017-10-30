@@ -1,2 +1,2 @@
-# 20171104-MichiganDatathon
+# Team #TBD repository 
 Citadel and Correlation 1 Datathon @ University of Michigan, 11/04/2017
