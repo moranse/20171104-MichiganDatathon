@@ -1,2 +1,4 @@
-*.gz
-*.csv
+data/*.gz
+data/*.csv
+data/*.geojson
+data/*.json
