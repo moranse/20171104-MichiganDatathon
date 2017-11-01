@@ -1,4 +1,6 @@
-*.gz
-*.geojson
+.DS_Store
 .ipynb_checkpoints
-*.csv
+data/*.gz
+data/*.csv
+data/*.geojson
+data/*.json
