@@ -1,2 +1,4 @@
 *.gz
+*.geojson
+.ipynb_checkpoints
 *.csv
